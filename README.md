@@ -1,5 +1,5 @@
 # Time Series / Weather Prediction Project
-This repository contains one of my projects as a data science student taken from my student repo (copy of finalized files), in it:
+This repository contains one of my projects as a data science student, in it:
 * Weather data is cleaned and processed 
 * Missing values are filled using a Random Forest Regressor
 * Data is explored
